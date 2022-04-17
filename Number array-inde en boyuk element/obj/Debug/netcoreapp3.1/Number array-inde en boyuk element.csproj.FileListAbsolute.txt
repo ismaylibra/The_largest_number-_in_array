@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\obj\Debug\netcoreapp3.1\Number array-inde en boyuk element.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\obj\Debug\netcoreapp3.1\Number array-inde en boyuk element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\obj\Debug\netcoreapp3.1\Number array-inde en boyuk element.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\obj\Debug\netcoreapp3.1\Number array-inde en boyuk element.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\obj\Debug\netcoreapp3.1\Number array-inde en boyuk element.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\bin\Debug\netcoreapp3.1\Number array-inde en boyuk element.exe
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\bin\Debug\netcoreapp3.1\Number array-inde en boyuk element.deps.json
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\bin\Debug\netcoreapp3.1\Number array-inde en boyuk element.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\bin\Debug\netcoreapp3.1\Number array-inde en boyuk element.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\bin\Debug\netcoreapp3.1\Number array-inde en boyuk element.dll
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\bin\Debug\netcoreapp3.1\Number array-inde en boyuk element.pdb
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\obj\Debug\netcoreapp3.1\Number array-inde en boyuk element.dll
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\obj\Debug\netcoreapp3.1\Number array-inde en boyuk element.pdb
+C:\Users\ASUS\Desktop\C# tasks\Number array-inde en boyuk element\Number array-inde en boyuk element\obj\Debug\netcoreapp3.1\Number array-inde en boyuk element.genruntimeconfig.cache
